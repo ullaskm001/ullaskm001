@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Ullas K M
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Frontend+Developer;Backend-Developer)
+
 ✉️ **Email**: [ullaskaruvattumana@gmail.com](mailto:ullaskaruvattumana@gmail.com)  
 🌍 **Location**: Kerala, India  
 🔗 **LinkedIn**: [in/ullaskm](https://www.linkedin.com/in/ullaskm/)  
@@ -28,6 +30,21 @@ As a passionate and dedicated software developer, I aim to leverage my skills in
 ## 🛠️ Skills
 
 ### Technical Skills
+![HTML](https://img.shields.io/badge/-HTML5-orange?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Node](https://img.shields.io/badge/-Node-092E20?style=flat-square&logo=Node&logoColor=white)
+![Expressjs](https://img.shields.io/badge/-Express-092E20?style=flat-square&logo=Express&logoColor=white)
+![MongoDb](https://img.shields.io/badge/-Mongodb-092E20?style=flat-square&logo=Mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![PHP](https://img.shields.io/badge/-Php-092E20?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/-Laravel-092E20?style=flat-square&logo=Laravel&logoColor=white)
+![MySql](https://img.shields.io/badge/-Mysql-092E20?style=flat-square&logo=Mysql&logoColor=white)
+![AWS](https://img.shields.io/badge/-Aws-092E20?style=flat-square&logo=AWS&logoColor=white)
+
+
 - **Web Development**: HTML, CSS, JavaScript, Bootstrap, TailwindCSS, ReactJS, jQuery, NodeJS, ExpressJS
 - **Backend Development**: Python, Django, PHP, Laravel
 - **Databases**: SQL, MySQL, MongoDB
@@ -68,6 +85,5 @@ An event management platform created with the MERN stack (MongoDB, Express.js, R
 - Online Workshop on Data Analytics & AI - Centre for Computer Science and Information Technology (CCSIT), University of Calicut (June 2024)
 
 ---
-
 
 Feel free to reach out for collaborations, projects, or just to connect! 🌟
