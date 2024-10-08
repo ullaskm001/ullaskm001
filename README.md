@@ -2,6 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Frontend+Developer;Backend-Developer)
 
+💼 **Portfolio**: [Portfolio](https://ullaskm001.github.io/portfolio/) 
 ✉️ **Email**: [ullaskaruvattumana@gmail.com](mailto:ullaskaruvattumana@gmail.com)  
 🌍 **Location**: Kerala, India  
 🔗 **LinkedIn**: [in/ullaskm](https://www.linkedin.com/in/ullaskm/)  
